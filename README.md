@@ -2,8 +2,8 @@
 A practice tool, replicating part of Corrupted Gauntlet fight in OldSchoolRuneScape.
 
 ## How to use
-1. Visit https://kareth.github.ui/osrs-cg/
-2. Swap between inventory and prayer book with 1 / 2 keys.
+1. Visit https://p-victor.github.io/osrs-cg-training/
+2. Swap between inventory and prayer book with 2 / 3 keys.
 3. Move by clicking on the board. Attack by clicking on white hunlleff area.
 4. For both Player and Hunleff, attack style is displayed on the bottom, and prayer is displayed on the top.
  
